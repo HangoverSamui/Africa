@@ -1,5 +1,5 @@
 # Africa
-Swift / SwiftUI Application
+Swift / SwiftUI Rapid Prototype Application
 
 This is an applicaiton that works on iPhone, iPad and Mac OS. It uses local data stored on JSON files and is fetched, decoded with Swift.
 It dememstrates Grid Layouts, plays videos, has map annotations, grid system and motion animation.
