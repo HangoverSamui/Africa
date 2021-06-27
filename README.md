@@ -2,7 +2,7 @@
 Swift / SwiftUI Rapid Prototype Application
 
 This is an applicaiton that works on iPhone, iPad and Mac OS. It uses local data stored on JSON files and is fetched, decoded with Swift.
-It dememstrates Grid Layouts, plays videos, has map annotations, grid system and motion animation.
+It demonstrates Grid Layouts, plays videos, has map annotations, grid system and motion animation.
 <br>
 <img src="https://user-images.githubusercontent.com/30294372/123526418-635a3d80-d69d-11eb-9b40-d311964f8ed6.png" data-canonical-src="https://user-images.githubusercontent.com/30294372/123526418-635a3d80-d69d-11eb-9b40-d311964f8ed6.png" width="200" height="400" /><img src="https://user-images.githubusercontent.com/30294372/123526420-65240100-d69d-11eb-952b-903bc6d11d40.png" data-canonical-src="https://user-images.githubusercontent.com/30294372/123526420-65240100-d69d-11eb-952b-903bc6d11d40.png" width="200" height="400" />
 
